@@ -1,4 +1,4 @@
-# DoorSign
+# Door Sign
 This program is written in Java and to randomly allocate the Harry Potter character to each room.
 Hope you all like your door sign!
 
